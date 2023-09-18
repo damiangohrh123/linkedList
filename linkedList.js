@@ -182,15 +182,15 @@ ll.append('400');
 ll.append('500');
 ll.append('600');
 ll.prepend('50');
-//ll.pop();
-//ll.insertAt('69', 2)
+ll.pop();
+ll.insertAt('69', 2)
 
-//ll.printHead();
-//ll.printTail();
-//ll.at(1);
-//ll.find('100');
-//ll.contains('1200');
-//ll.toString();
+ll.printHead();
+ll.printTail();
+ll.at(1);
+ll.find('100');
+ll.contains('1200');
+ll.toString();
 ll.removeAt(2);
 
 ll.printListData();
